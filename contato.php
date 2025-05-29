@@ -17,6 +17,12 @@
   </nav>
 </header>
   <main class="main-contato">
+    <section>
+            <h2>Informações de Contato</h2>
+            <p><strong>Email:</strong> feiratecnologia@gmail.com</p>
+            <p><strong>Telefone:</strong> (11) 4002-8922</p>
+            <p><strong>Endereço:</strong> Rua das Chatices, 1095 - Bairro Mimimi, Blablabla - CEP 78665-567</p>
+        </section>
     <div class="contato">
     <form action="contato.php" method="post">
 

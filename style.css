@@ -135,7 +135,7 @@ nav a:hover{
 }
 
 
-.main-contato{
+.contato{
     flex-direction: column;
     display: flex;
     justify-content: center;
@@ -153,11 +153,29 @@ nav a:hover{
     margin-bottom: 100px;
 }
 
-.main-contato button{
+.contato button{
     height: 30px;
     font-size: 20px;
     justify-content: center;
     display: flex;
+}
+
+.main-contato section{
+    flex-direction: column;
+    
+    
+    text-align: justify;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+    margin-top: 100px;
+    align-items: center;
+    max-height: 400px;
+    min-width: 400px;
+    max-width: 600px;
+    border-radius: 15px;
+    font-size: 26px;
+    padding: 20px;
+    margin-bottom: 100px;
 }
 
 
